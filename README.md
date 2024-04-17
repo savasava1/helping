@@ -71,7 +71,7 @@
         <p>We provide personalized assistance and guidance to help self-raising moms make money from home.</p>
         <p>Our expert advisors will work with you to develop a customized plan tailored to your skills and interests.</p>
         <p>To get started, sign up for our services for only $9.99!</p>
-        <form action="YOUR_PAYMENT_PROCESSOR_LINK">
+        <form action="https://www.paypal.com/ncp/payment/3TRXN9WJUBDAG">
             <button type="submit">Sign Up Now</button>
         </form>
     </main>
